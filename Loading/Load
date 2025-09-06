@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Robanik/Buildaplanegg/refs/heads/main/Main"))()
